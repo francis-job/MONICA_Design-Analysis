@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T11:12:29.974Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="pj41b9kb8r83IW5ehLmY" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T11:16:23.864Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hX0Ernot_qkt-mCCU6BV" version="13.8.0" type="github">
   <diagram id="hjTE85LKdYXJgC05tT9E" name="Page-1">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,27 @@
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Search for the Customer Data from the Database for editing or deleting.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="818" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EyGMNAbHj0_KpZ91oExp-30" target="EyGMNAbHj0_KpZ91oExp-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-30" value="&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;FILE MANAGEMENT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="810" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EyGMNAbHj0_KpZ91oExp-32" target="EyGMNAbHj0_KpZ91oExp-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="860" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="EyGMNAbHj0_KpZ91oExp-34" target="EyGMNAbHj0_KpZ91oExp-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Provide a basic idea about how the file is accessed and modified&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;Not an Actual functional block or something , just added for a better understanding about the file operations.&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="928" width="240" height="202" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
