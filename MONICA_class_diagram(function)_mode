@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T02:36:32.661Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="A5eoGqyedxKuUWETY2-W" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T02:48:40.319Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XbWfow93T0DkkJIml404" version="13.8.0" type="github">
   <diagram id="hjTE85LKdYXJgC05tT9E" name="Page-1">
-    <mxGraphModel dx="1422" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EyGMNAbHj0_KpZ91oExp-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="-120" width="830" height="1230" as="geometry" />
+          <mxGeometry x="-1" y="40" width="830" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="MkcCcmgy7EM2KU-pY2a9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MkcCcmgy7EM2KU-pY2a9-8" target="MkcCcmgy7EM2KU-pY2a9-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="MkcCcmgy7EM2KU-pY2a9-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="70" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MkcCcmgy7EM2KU-pY2a9-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Provide interface for the Service person to Search for the Customer data to be edited&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Search the Database file for required Customer info.&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Select the exact Customer detail to be edited&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Provide interface for enter the edit.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;validate the edit.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Save the edit to the Database File.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MkcCcmgy7EM2KU-pY2a9-30" value="&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+edit_customer()&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-search(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-search_result(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+edit(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-validate(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+Save(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="108" width="240" height="262" as="geometry" />
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EyGMNAbHj0_KpZ91oExp-2" target="EyGMNAbHj0_KpZ91oExp-4" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="EyGMNAbHj0_KpZ91oExp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="460" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EyGMNAbHj0_KpZ91oExp-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Display All the Customer Data Saved in the Database .&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-7" value="&lt;br&gt;&lt;span style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;br&gt;list_customer()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-size: 14px&quot;&gt;display(data)&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="498" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EyGMNAbHj0_KpZ91oExp-9" target="EyGMNAbHj0_KpZ91oExp-11" edge="1">
@@ -109,8 +109,8 @@
         <mxCell id="EyGMNAbHj0_KpZ91oExp-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EyGMNAbHj0_KpZ91oExp-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Provide interface for the Service person to Search for the Customer data to be deleted&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Search the Database file for required Customer info.&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Select the exact Customer detail to be deleted.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Delete the Customer Data.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="498" width="240" height="242" as="geometry" />
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-14" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+delete_customer()&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+search(data)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+l&lt;/span&gt;&lt;span&gt;ist_result(data)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+delete()&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="498" width="240" height="172" as="geometry" />
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EyGMNAbHj0_KpZ91oExp-16" target="EyGMNAbHj0_KpZ91oExp-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
         <mxCell id="EyGMNAbHj0_KpZ91oExp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="830" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EyGMNAbHj0_KpZ91oExp-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Validate the Email ID.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Validate Model Number.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Validate&amp;nbsp; Device ID.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal&quot;&gt;Validate_ email_id()&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Validate_Model_Num()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Validate_Device_ID()&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="868" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EyGMNAbHj0_KpZ91oExp-23" target="EyGMNAbHj0_KpZ91oExp-25" edge="1">
@@ -151,7 +151,7 @@
         <mxCell id="EyGMNAbHj0_KpZ91oExp-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="840" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EyGMNAbHj0_KpZ91oExp-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff3333&quot;&gt;&amp;lt;responsibilities&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Search for the Customer Data from the Database for editing or deleting.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EyGMNAbHj0_KpZ91oExp-28" value="&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;search(name,prouduct_id)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="878" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EyGMNAbHj0_KpZ91oExp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EyGMNAbHj0_KpZ91oExp-30" target="EyGMNAbHj0_KpZ91oExp-32" edge="1">
