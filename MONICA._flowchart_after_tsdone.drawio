@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T08:12:43.140Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="GLjM0g-e23ri7Ztbz_NB" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-23T08:14:42.470Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zx9cpIRFq3bJKMXqehDW" version="13.8.1" type="github" pages="2">
   <diagram id="-3yE_oQgP8SEoG4yNwQ4" name="Page-1">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="7udFH5Te9YRPJ404BhfZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7udFH5Te9YRPJ404BhfZ-7" target="7udFH5Te9YRPJ404BhfZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7udFH5Te9YRPJ404BhfZ-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Display&amp;nbsp;the Main Menu Options&lt;br&gt;&lt;/b&gt;dispay these specific contents&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 14px&quot;&gt;struct&lt;/font&gt;&lt;span&gt;&amp;nbsp;operation_t.ops[char op] &amp;amp;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 14px&quot;&gt;struct&lt;/font&gt;&lt;span&gt;&amp;nbsp;operation_t.ops[op_string]&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7udFH5Te9YRPJ404BhfZ-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Display&amp;nbsp;the Main Menu Options&lt;br&gt;&lt;/b&gt;display these specific contents&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 14px&quot;&gt;struct&lt;/font&gt;&lt;span&gt;&amp;nbsp;operation_t.ops[char op] &amp;amp;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 14px&quot;&gt;struct&lt;/font&gt;&lt;span&gt;&amp;nbsp;operation_t.ops[op_string]&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7udFH5Te9YRPJ404BhfZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7udFH5Te9YRPJ404BhfZ-9">
